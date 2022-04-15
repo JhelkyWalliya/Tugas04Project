@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=yeseva+One&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'yeseva one', cursive;
+
+}
+
+.header{
+width: 100% ;
+min-height: 100vh;
+background-image: url(image/belakang.png);
+background-size: cover;
+background-position: center;
+position: relative;
+
+
+
+}
